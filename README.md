@@ -6,6 +6,8 @@ https://musescore.com/user/16403456/scores/4984153
 
 https://musescore.com/chlorondria_5/never-gonna-give-you-up_alto-sax
 
+https://user-images.githubusercontent.com/63166690/166967573-4b58b5ab-6aa4-4238-9f22-d8d7c55acc64.mov
+
 The circuit used is a very simple buzzer circuit which looks like this:
 
 (Make sure you use PIN 5 for the buzzer or change the buzzer integer in script to a different PIN.)
