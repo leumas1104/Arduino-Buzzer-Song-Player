@@ -11,7 +11,8 @@ https://user-images.githubusercontent.com/63166690/166967573-4b58b5ab-6aa4-4238-
 The circuit used is a very simple buzzer circuit which looks like this:
 
 (Make sure you use PIN 5 for the buzzer or change the buzzer integer in script to a different PIN.)
-![Editing Components](https://user-images.githubusercontent.com/63166690/166476836-02270979-d89d-446f-9485-253145414c78.png)
+<img src="https://user-images.githubusercontent.com/63166690/166476836-02270979-d89d-446f-9485-253145414c78.png" width="500" height="400">
+
 
 # LED Matrix Connect 4 Game
 This project recreates the classic game Connect 4 using a 8x8 LED Matrix.
