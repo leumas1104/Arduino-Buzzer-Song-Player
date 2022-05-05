@@ -1,3 +1,5 @@
+This repo is just meant to be a collection of my favorite Arduino projects that I've completed and will hopefully grow larger over time.
+
 # Arduino-Buzzer-Song-Player
 This is a small Arduino project which uses a buzzer module to play any simple musical melody.
 The **notes, pauses and tempo** of the song **must be manually defined** in the script. Per default it plays the Nintendo Mii Theme and Never Gonna Give You Up by Rick Astley. The sheet music used can be found here: 
