@@ -23,10 +23,9 @@ This project recreates the classic game Connect 4 using a **8x8 LED Matrix**. It
 <img src="https://user-images.githubusercontent.com/63166690/166990364-e390ed3c-c8b6-4d08-81c3-12b2accb6529.png" width="400" height="350">
 
 # LED Reaction-Game
-This project is a two-player **reaction time game** in which a red LED randomly lights up, after which the two players try to press their respective button as quickly as possible. The person who presses their button first wins the round. The result is then announced by one of the two green lights. The first player to win **5 rounds** is the overall winner after which the game can be restarted. A premature button press disqualifies the player for that round and awards the point to the other player. Everytime the players want to start the next game/round both buttons must be pressed at the same time. To track the players score every round you can open the **Serial Monitor** in the Arduino IDE.
+This project is a two-player **reaction time game** in which a red LED randomly lights up, after which the two players try to press their respective button as quickly as possible. The person who presses their button first wins the round. The result is then announced by one of the two green LEDs. The first player to win **5 rounds** is the overall winner and the game can be restarted, resetting the scoreboard. A premature button press disqualifies the player for that round and awards the point to the other player. Everytime the players want to start the next game/round both buttons must be pressed at the same time. To track the players score every round, you can open the **Serial Monitor** in the Arduino IDE.
 
-This was one of my first projects. It's pretty simple but I like it because it was the first project that challenged my knowledge at the time and gave me that eurika moment when it was finished.
-
+This was one of my first projects and although it's pretty simple, I really like it because it challenged my knowledge at the time and gave me that eurika moment when I finished it.
 
 <img src="https://user-images.githubusercontent.com/63166690/167148301-59498fd7-1388-4c18-aa5b-d5d005996586.png" width="400" height="350">
 <img src="https://user-images.githubusercontent.com/63166690/167153770-f395dd22-13bf-4a68-9f70-3db08b1339f1.png" width="400" height="350">
